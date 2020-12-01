@@ -1,0 +1,6 @@
+**/.bloop
+**/.metals
+**/.vscode
+**/target
+**/project
+example/.scalafix.conf
